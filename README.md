@@ -19,3 +19,5 @@
 <a href="mailto:duduibahuang@gmail.com">
   <img align="left" height="23" width="23" src="https://gitee.com/bahuangshanren/photo/raw/master/gmail.svg" />
 </a>
+
+[![](https://img.shields.io/badge/protonmail-bahuangshanren@protonmail.com-blue)](mailto:bahuangshanren@protonmail.com)
