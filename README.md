@@ -1,16 +1,21 @@
-### Hi there 👋
+![Github Stats](https://github-readme-stats-kappa-lemon.vercel.app/api?username=BahuangShanren&show_icons=true)
 
-<!--
-**BahuangShanren/bahuangshanren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Languages](https://github-readme-stats-kappa-lemon.vercel.app/api/top-langs/?username=BahuangShanren)
 
-Here are some ideas to get you started:
+## Contact me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://twitter.com/BahuangShanren">
+  <img align="left" height="23" width="23" src="https://gitee.com/bahuangshanren/photo/raw/master/twitter.svg" />
+</a>
+
+<a href="https://t.me/BahuangShanren">
+  <img align="left" height="23" width="23" src="https://gitee.com/bahuangshanren/photo/raw/master/telegram.svg" />
+</a>
+
+<a href="mailto:bahuangshanren@protonmail.com">
+  <img align="left" height="23" width="23" src="https://gitee.com/bahuangshanren/photo/raw/master/protonmail.svg" />
+</a>
+
+<a href="mailto:duduibahuang@gmail.com">
+  <img align="left" height="23" width="23" src="https://gitee.com/bahuangshanren/photo/raw/master/gmail.svg" />
+</a>
