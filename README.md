@@ -1,4 +1,4 @@
-![Github Stats](https://github-readme-stats-kappa-lemon.vercel.app/api?username=BahuangShanren&show_icons=true&count_private=true&include_all_commits=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=DEG,fbc8d4,9795f0&cache_seconds=1800)
+![Github Stats](https://github-readme-stats-kappa-lemon.vercel.app/api?username=BahuangShanren&show_icons=true&count_private=true&include_all_commits=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=DEG,fbc8d4,9795f0&cache_seconds=7200)
 
 ![Top Languages](https://github-readme-stats-kappa-lemon.vercel.app/api/top-langs/?username=BahuangShanren&layout=compact)
 
