@@ -1,6 +1,6 @@
-![Github Stats](https://github-readme-stats-kappa-lemon.vercel.app/api?username=BahuangShanren&show_icons=true)
+![Github Stats](https://github-readme-stats-kappa-lemon.vercel.app/api?username=BahuangShanren&theme=algolia&show_icons=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats-kappa-lemon.vercel.app/api/top-langs/?username=BahuangShanren)
+![Top Languages](https://github-readme-stats-kappa-lemon.vercel.app/api/top-langs/?username=BahuangShanren&layout=compact)
 
 ## Contact me
 
