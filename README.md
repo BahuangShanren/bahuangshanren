@@ -1,4 +1,4 @@
-![Github Stats](https://github-readme-stats-kappa-lemon.vercel.app/api?username=BahuangShanren&show_icons=true&count_private=true&include_all_commits=true&title_color=#FFFFFF)
+![Github Stats](https://github-readme-stats-kappa-lemon.vercel.app/api?username=BahuangShanren&show_icons=true&count_private=true&include_all_commits=true&title_color=FFFFFF)
 
 ![Top Languages](https://github-readme-stats-kappa-lemon.vercel.app/api/top-langs/?username=BahuangShanren&layout=compact)
 
